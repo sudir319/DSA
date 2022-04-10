@@ -14,7 +14,7 @@
  * - Is Full: Check if the queue is full
  * - Peek: Get the value of the front of the queue without removing it
  */
-package src.queue;
+package datastructures.queue;
 public class Queue {
     int size = 5;
     int[] items;

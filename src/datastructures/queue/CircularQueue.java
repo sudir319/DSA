@@ -1,4 +1,4 @@
-package src.queue;
+package datastructures.queue;
 
 /**
  * This is same as Queue except the whenever deque happened, that space is not usable in normal

@@ -14,7 +14,7 @@
  * - Is Full : Check if the stack is full
  * - Peek : Get the top element without removing it from the Stack.
  */
-package src.stack;
+package datastructures.stack;
 public class Stack {
     private int stack[];
     private int top;
